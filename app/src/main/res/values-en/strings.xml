@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppPrimosGemelos</string>
+    <string name="Titulo">TWIN PRIME NUMBERS</string>
+    <string name="descripcionPortada">Animated image of twin prime numbers</string>
+    <string name="info_tema">Twin prime numbers are pairs of primes whose difference is exactly 2. Example: (3,5), (5,7), (11,13)....</string>
+    <string name="txtBoton">VERIFY</string>
+    <string name="txtResultado">Result</string>
+    <string name="hint_tv1">Number 1</string>
+    <string name="hint_tv2">Number 2</string>
+</resources>

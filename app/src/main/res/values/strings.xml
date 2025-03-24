@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppPrimosGemelos</string>
+  <string name="Titulo" >NUMEROS PRIMOS GEMELOS</string>
+    <string name="descripcionPortada" >Imagen animada de los numeros primos gemelos</string>
+    <string name="info_tema">Los números primos gemelos son pares de primos cuya diferencia
+    es exactamente  2.
+    Ejemplo: (3,5), (5,7), (11,13)....</string>
+  <string name="txtBoton">VERIFICAR</string>
+  <string name="txtResultado">Resultado</string>
+  <string name="hint_tv1">Numero 1</string>
+  <string name="hint_tv2">Numero 2</string>
+</resources>
